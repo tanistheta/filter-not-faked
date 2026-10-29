@@ -1,0 +1,64 @@
+detector,filter,strength,group,n,fpr,ci_lo,ci_hi
+Deep-Fake-Detector-v2-Model,lighten,0.0,Black,300,0.03,0.013333333333333334,0.05
+Deep-Fake-Detector-v2-Model,lighten,0.0,East Asian,300,0.043333333333333335,0.023333333333333334,0.07
+Deep-Fake-Detector-v2-Model,lighten,0.0,Indian,300,0.09666666666666666,0.06333333333333334,0.13
+Deep-Fake-Detector-v2-Model,lighten,0.0,Latino_Hispanic,300,0.03333333333333333,0.01658333333333334,0.05333333333333334
+Deep-Fake-Detector-v2-Model,lighten,0.0,Middle Eastern,300,0.07333333333333333,0.043333333333333335,0.10333333333333333
+Deep-Fake-Detector-v2-Model,lighten,0.0,Southeast Asian,300,0.03333333333333333,0.013333333333333334,0.056666666666666664
+Deep-Fake-Detector-v2-Model,lighten,0.0,White,300,0.04,0.02,0.0634166666666666
+Deep-Fake-Detector-v2-Model,lighten,0.5,Black,300,0.023333333333333334,0.006666666666666667,0.04
+Deep-Fake-Detector-v2-Model,lighten,0.5,East Asian,300,0.04666666666666667,0.023333333333333334,0.07333333333333333
+Deep-Fake-Detector-v2-Model,lighten,0.5,Indian,300,0.07,0.043333333333333335,0.1
+Deep-Fake-Detector-v2-Model,lighten,0.5,Latino_Hispanic,300,0.03,0.013333333333333334,0.05
+Deep-Fake-Detector-v2-Model,lighten,0.5,Middle Eastern,300,0.06333333333333334,0.03666666666666667,0.09333333333333334
+Deep-Fake-Detector-v2-Model,lighten,0.5,Southeast Asian,300,0.02666666666666667,0.01,0.043333333333333335
+Deep-Fake-Detector-v2-Model,lighten,0.5,White,300,0.03666666666666667,0.019916666666666673,0.06
+Deep-Fake-Detector-v2-Model,lighten,1.0,Black,300,0.016666666666666666,0.0033333333333333335,0.03
+Deep-Fake-Detector-v2-Model,lighten,1.0,East Asian,300,0.06,0.03333333333333333,0.09
+Deep-Fake-Detector-v2-Model,lighten,1.0,Indian,300,0.05333333333333334,0.03,0.08
+Deep-Fake-Detector-v2-Model,lighten,1.0,Latino_Hispanic,300,0.03,0.013333333333333334,0.04666666666666667
+Deep-Fake-Detector-v2-Model,lighten,1.0,Middle Eastern,300,0.043333333333333335,0.02,0.06666666666666667
+Deep-Fake-Detector-v2-Model,lighten,1.0,Southeast Asian,300,0.02666666666666667,0.01,0.04341666666666659
+Deep-Fake-Detector-v2-Model,lighten,1.0,White,300,0.043333333333333335,0.023333333333333334,0.06674999999999992
+Deep-Fake-Detector-v2-Model,smooth,0.0,Black,300,0.03,0.013333333333333334,0.05
+Deep-Fake-Detector-v2-Model,smooth,0.0,East Asian,300,0.043333333333333335,0.023333333333333334,0.07
+Deep-Fake-Detector-v2-Model,smooth,0.0,Indian,300,0.09666666666666666,0.06333333333333334,0.13
+Deep-Fake-Detector-v2-Model,smooth,0.0,Latino_Hispanic,300,0.03333333333333333,0.01658333333333334,0.05333333333333334
+Deep-Fake-Detector-v2-Model,smooth,0.0,Middle Eastern,300,0.07333333333333333,0.043333333333333335,0.10333333333333333
+Deep-Fake-Detector-v2-Model,smooth,0.0,Southeast Asian,300,0.03333333333333333,0.013333333333333334,0.056666666666666664
+Deep-Fake-Detector-v2-Model,smooth,0.0,White,300,0.04,0.02,0.0634166666666666
+Deep-Fake-Detector-v2-Model,smooth,0.5,Black,300,0.06,0.03666666666666667,0.08666666666666667
+Deep-Fake-Detector-v2-Model,smooth,0.5,East Asian,300,0.056666666666666664,0.03333333333333333,0.08333333333333333
+Deep-Fake-Detector-v2-Model,smooth,0.5,Indian,300,0.15,0.11,0.19
+Deep-Fake-Detector-v2-Model,smooth,0.5,Latino_Hispanic,300,0.06333333333333334,0.03333333333333333,0.09
+Deep-Fake-Detector-v2-Model,smooth,0.5,Middle Eastern,300,0.10666666666666667,0.07333333333333333,0.14
+Deep-Fake-Detector-v2-Model,smooth,0.5,Southeast Asian,300,0.06666666666666667,0.04,0.09666666666666666
+Deep-Fake-Detector-v2-Model,smooth,0.5,White,300,0.05333333333333334,0.03,0.08333333333333333
+Deep-Fake-Detector-v2-Model,smooth,1.0,Black,300,0.16333333333333333,0.12325000000000001,0.20333333333333334
+Deep-Fake-Detector-v2-Model,smooth,1.0,East Asian,300,0.13,0.09333333333333334,0.16666666666666666
+Deep-Fake-Detector-v2-Model,smooth,1.0,Indian,300,0.2966666666666667,0.24666666666666667,0.35
+Deep-Fake-Detector-v2-Model,smooth,1.0,Latino_Hispanic,300,0.17333333333333334,0.13,0.21333333333333335
+Deep-Fake-Detector-v2-Model,smooth,1.0,Middle Eastern,300,0.18333333333333332,0.14,0.22666666666666666
+Deep-Fake-Detector-v2-Model,smooth,1.0,Southeast Asian,300,0.16,0.12333333333333334,0.20666666666666667
+Deep-Fake-Detector-v2-Model,smooth,1.0,White,300,0.08666666666666667,0.056666666666666664,0.12
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.0,Black,300,0.03,0.013333333333333334,0.05
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.0,East Asian,300,0.043333333333333335,0.023333333333333334,0.07
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.0,Indian,300,0.09666666666666666,0.06333333333333334,0.13
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.0,Latino_Hispanic,300,0.03333333333333333,0.01658333333333334,0.05333333333333334
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.0,Middle Eastern,300,0.07333333333333333,0.043333333333333335,0.10333333333333333
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.0,Southeast Asian,300,0.03333333333333333,0.013333333333333334,0.056666666666666664
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.0,White,300,0.04,0.02,0.0634166666666666
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.5,Black,300,0.04666666666666667,0.023333333333333334,0.07
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.5,East Asian,300,0.07,0.043333333333333335,0.09674999999999992
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.5,Indian,300,0.12333333333333334,0.08666666666666667,0.16
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.5,Latino_Hispanic,300,0.056666666666666664,0.03333333333333333,0.08333333333333333
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.5,Middle Eastern,300,0.09666666666666666,0.06333333333333334,0.13333333333333333
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.5,Southeast Asian,300,0.05,0.02666666666666667,0.07666666666666666
+Deep-Fake-Detector-v2-Model,smooth_lighten,0.5,White,300,0.056666666666666664,0.03333333333333333,0.08341666666666658
+Deep-Fake-Detector-v2-Model,smooth_lighten,1.0,Black,300,0.06666666666666667,0.04,0.09333333333333334
+Deep-Fake-Detector-v2-Model,smooth_lighten,1.0,East Asian,300,0.07666666666666666,0.05,0.10666666666666667
+Deep-Fake-Detector-v2-Model,smooth_lighten,1.0,Indian,300,0.13333333333333333,0.09666666666666666,0.17333333333333334
+Deep-Fake-Detector-v2-Model,smooth_lighten,1.0,Latino_Hispanic,300,0.09666666666666666,0.06333333333333334,0.13333333333333333
+Deep-Fake-Detector-v2-Model,smooth_lighten,1.0,Middle Eastern,300,0.1,0.06666666666666667,0.13333333333333333
+Deep-Fake-Detector-v2-Model,smooth_lighten,1.0,Southeast Asian,300,0.09,0.06,0.12333333333333334
+Deep-Fake-Detector-v2-Model,smooth_lighten,1.0,White,300,0.08333333333333333,0.05333333333333334,0.11674999999999992

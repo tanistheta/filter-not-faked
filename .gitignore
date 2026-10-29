@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+results/*/examples/
+results/test*/
+results/timing/
+results/sanity/
+*.zip
+paper/*.aux
+paper/*.log
+paper/*.out
+.DS_Store

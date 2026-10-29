@@ -1,0 +1,25 @@
+{
+  "source": "folder",
+  "path": "data/fairface",
+  "n_per_group": 300,
+  "max_images": 0,
+  "n": 120,
+  "detectors": [
+    "prithivMLmods/Deep-Fake-Detector-v2-Model"
+  ],
+  "filters": [
+    "smooth",
+    "lighten",
+    "smooth_lighten"
+  ],
+  "strengths": [
+    0.0,
+    0.5,
+    1.0
+  ],
+  "jpeg_quality": 85,
+  "batch": 64,
+  "save_examples": 6,
+  "out": "results/fairface",
+  "seed": 0
+}

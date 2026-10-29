@@ -1,0 +1,10 @@
+numpy
+opencv-python-headless
+pandas
+matplotlib
+statsmodels
+scipy
+pillow
+torch
+transformers
+datasets
